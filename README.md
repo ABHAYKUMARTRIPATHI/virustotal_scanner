@@ -42,3 +42,10 @@ virustotal_scanner/
 ⚠️ Disclaimer
 
 This project is for educational and research purposes only. Use responsibly and only on files or URLs you have permission to scan.
+
+## 👤 Author
+
+**Abhay Kumar Tripathi**  
+[GitHub](https://github.com/ABHAYKUMARTRIPATHI)  
+[LinkedIn](https://www.linkedin.com/in/abhay-kumar-tripathi-54899b31a)  
+[Instagram](https://www.instagram.com/abhaytripathi_46)
